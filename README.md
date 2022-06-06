@@ -1,2 +1,2 @@
-# TodoList的Vuex简单实践
-使用VUE 2.x
+# A simple example of TodoList with Vuex&ant-design 
+build with VUE 2.x
